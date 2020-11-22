@@ -48,9 +48,15 @@ table, th, td {
   width: 900px;
   height: 500px;
   border: 0px solid #f0f0ee;
+  background-color: rgb(94, 228, 105);
 }
 
 #exppoints{
   font: italic 25px/50px Georgia, serif;
   list-style-type: inherit;
+  background-color: rgb(94, 228, 105);
 }
+
+
+
+
